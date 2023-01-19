@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(3, 20, 55);
+}
+
+h1{
+    display: grid;
+    justify-content: center;
+    color: white;
+    margin: 1% 0 0 0 ;
+    font-size: xx-large;
+}
+
+.btn-custom{
+    display: grid;
+    justify-content: right;
+    margin-right: 5%;
+    margin-top : 2%;
+    margin-bottom: 2%;
+}
+
+.card-customes{
+    gap: 18px;
+    margin-left: 15%;
+    margin-bottom: 2%;
+}
